@@ -1,16 +1,17 @@
 # PartnerPractice
 
 Q1 - What does clone set the variable origin to represent? 
-**--> main?**
+**-->local repo**
 
 Q2 - What does the command git push --set-upstream origin master do? What does remote tracking mean in this context?
 **--> pushes merge commits to the remote repo**
 **--> remote-tracking branches are *references* to the state of remote branches**
-**--> tracking reference **
 
 Q3 - Explain and illustrate what's happening in the commit tree when this command executes.
+**--> git pull origin master pulls changes from the origin remote, master branch and merge them to the local check-out branch**
 
 Q4 - Are your commits overwritten by the remote master?
+**--> 
 
 Q5 - Is this a merge or a rebase?
 
