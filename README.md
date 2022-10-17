@@ -24,7 +24,9 @@ Q7 - Run git branch. Did your local copy of your branch delete when Person A del
 
 Q8 - Use git log --graph --all to view the branching structure and copy and paste the result into the README.md formatted as a code segment (see markdown cheatsheet).
 
-*   commit edab0a6a50fe6aa77510ea8f43f2dd5869eafb7f (HEAD -> main, origin/main, origin/HEAD)
+
+
+`*   commit edab0a6a50fe6aa77510ea8f43f2dd5869eafb7f (HEAD -> main, origin/main, origin/HEAD)
 |\  Merge: 61474b3 5ef4303
 | | Author: lillyphan <113716236+lillyphan@users.noreply.github.com>
 | | Date:   Tue Oct 11 11:07:53 2022 -0600
@@ -63,4 +65,82 @@ Q8 - Use git log --graph --all to view the branching structure and copy and past
 |/  Author: Preity Singh <psingh23@kentdenver.org>
 |   Date:   Mon Oct 10 14:16:28 2022 -0600
 |   
-:
+|       Preity's edit 2 for txt
+|
+* commit 317a78ebfa61e6ab8ed73d1e762cf29df6ae3d20
+| Author: Preity Singh <psingh23@kentdenver.org>
+| Date:   Mon Oct 10 14:01:22 2022 -0600
+|
+|     adding preity's feature 2 text
+|   
+*   commit 5e3f965ab17abfc43ce5590dcc4d68229f9f9a9b
+|\  Merge: aefb308 6225300
+| | Author: preitysingh <111521777+preitysingh@users.noreply.github.com>
+| | Date:   Mon Oct 10 13:55:54 2022 -0600
+| |
+| |     Merge pull request #1 from preitysingh/lilly
+| |     
+| |     Lilly
+| |   
+| *   commit 6225300f9ec7b5b4ceb771262e0a41de724a9ae3
+| |\  Merge: 5ee5745 e792e4a
+| | | Author: lillyphan <lphan24@kentdenver.org>
+| | | Date:   Fri Oct 7 10:49:11 2022 -0600
+| | |
+| | |     Merge branch 'main' of https://github.com/preitysingh/PartnerPractice into lilly
+| | |     
+| | |     Merge main and feature.
+| | |
+| * | commit 5ee574516b90d0ebb2aadc7104d2704b4826fa57
+| | | Author: lillyphan <lphan24@kentdenver.org>
+| | | Date:   Fri Oct 7 10:39:13 2022 -0600
+| | |
+| | |     Add and edit otherfile.txt
+| | |
+* | | commit aefb308bb2543d676b56a61be67f3fa65b87b8d3
+| | | Author: preitysingh <111521777+preitysingh@users.noreply.github.com>
+| | | Date:   Mon Oct 10 13:50:25 2022 -0600
+| | |
+| | |     Update README.md
+| | |
+* | | commit b9f12bd1fd6813805a884a2c488d55feb814750d
+| | | Author: preitysingh <111521777+preitysingh@users.noreply.github.com>
+| | | Date:   Mon Oct 10 13:43:13 2022 -0600
+| | |
+| | |     Update README.md
+| | |
+* | | commit a0d542b374f56e1acd5e82f3ee9d861c93390a33
+| | | Author: preitysingh <111521777+preitysingh@users.noreply.github.com>
+| | | Date:   Fri Oct 7 13:24:08 2022 -0600
+| | |
+| | |     Update README.md
+| | |
+* | | commit 2db03c2a23b6e77c236a8415ca7a6880545f1319
+| |/  Author: preitysingh <111521777+preitysingh@users.noreply.github.com>
+|/|   Date:   Fri Oct 7 11:01:15 2022 -0600
+| |   
+| |       Update README.md
+| |
+* | commit e792e4a3e99ca2ff150695a44360aa560fb445ab
+|/  Author: Preity Singh <psingh23@kentdenver.org>
+|   Date:   Fri Oct 7 10:30:34 2022 -0600
+|   
+|       Tired message
+|
+* commit 016a252c1994178e2ef0f7520ff6fbaf7811def9
+| Author: Preity Singh <psingh23@kentdenver.org>
+| Date:   Fri Oct 7 10:24:45 2022 -0600
+|
+|     Add Text File
+|
+* commit b186848d894b046558398786aa6b40cbf2281deb
+| Author: preitysingh <111521777+preitysingh@users.noreply.github.com>
+| Date:   Fri Oct 7 10:20:09 2022 -0600
+|
+|     Update README.md
+|
+* commit 99ca93855478d98716c8faed033383ae60a40efc
+  Author: preitysingh <111521777+preitysingh@users.noreply.github.com>
+  Date:   Fri Oct 7 10:17:59 2022 -0600
+
+      Initial commit`
